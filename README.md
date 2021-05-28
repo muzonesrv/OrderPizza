@@ -1,14 +1,6 @@
 # OrderPizza
 // class assignment on pizza ordering system
-/* In this assignment you will finish writing a pizza ordering system. You will be completing a pizza ordering system. You can order pizza, toppings, and wings. You must calculate a subtotal, tax, and final total. I will provide shell code for you to use, each area you have to modify is commented.
 
-In the main function calculate and print the subtotal, tax, and total.
-
-In the calculateSubTotal function, calculate the subtotal for ordering.
-
-In the calculateTax function, calculate the tax for ordering.
-
-There is a function called readValue that will allow you to read a number typed into the console, you don't have to understand this function, just use it. */
 
 
 import java.io.IOException;
